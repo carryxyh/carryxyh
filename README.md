@@ -13,3 +13,7 @@ Be good at Dubbo/Netty/RocketMQ/Flink, developed microservices framework, monito
 使用java和golang。
 
 擅长Dubbo/Netty/RocketMQ/Flink。开发过微服务框架，监控系统，消息队列等。
+
+--------------------
+
+愛 プリン
