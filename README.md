@@ -16,4 +16,4 @@ Be good at Dubbo/Netty/RocketMQ/Flink, developed microservices framework, monito
 
 --------------------
 
-愛 プリン
+好きな プリン
