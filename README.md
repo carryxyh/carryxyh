@@ -1,12 +1,15 @@
-### 早上好 👋
+### Morning 👋
 
-<!--
-**carryxyh/carryxyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a senior engineer from music.163.com. Working on middle-ware team.
 
-网易云音乐资深研发，中间件团队，负责微服务框架、缓存等。
+Working with java and golang...
 
-working on 云音乐单元化改造...
+Be good at Dubbo/Netty/RocketMQ/Flink, developed microservices framework, monitoring, message queues and so on...
 
-working with java/golang...
+--------------------
 
-be good at Dubbo/Netty/Rocketmq/Flink...
+我来自网易云音乐，中间件团队。
+
+使用java和golang。
+
+擅长Dubbo/Netty/RocketMQ/Flink。开发过微服务框架，监控系统，消息队列等待。
