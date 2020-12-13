@@ -21,3 +21,5 @@ Currently focusing on cloud music unitization, responsible for caching and RPC u
 --------------------
 
 好きな プリン
+
+https://github-readme-stats.vercel.app/api?username=carryxyh&count_private=true&show_icons=true&theme=tokyonight
