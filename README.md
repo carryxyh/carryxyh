@@ -16,7 +16,7 @@ Recently, I mainly do golang work, the main direction is to solve some of the pa
 
 擅长Dubbo/Netty/RocketMQ/Flink/缓存。开发过微服务框架，监控系统，消息队列等。
 
-近期主要做golang方面的工作，主要方向是解决缓存的一些列痛点，比如一致性、预热等。
+近期主要做golang方面的工作，主要方向是解决缓存的一些痛点，比如一致性、预热等。
 
 --------------------
 
