@@ -1,12 +1,12 @@
 ### Morning 👋
 
-I am an engineer.
+I'm an engineer.
 
-Working with java and golang...
+Use java and golang.
 
-Be good at Dubbo/Netty/RocketMQ/Flink/Cache, developed microservices framework, monitoring, message queues and so on.
+Good at Dubbo Netty/Flink RocketMQ/cache /. I have developed middleware such as microservice framework, monitoring system, message queue, etc. I have done terabyte level real-time computing, and I have done unit architecture transformation.
 
-Recently, I mainly do golang work, the main direction is to solve some of the pain points of cache, such as consistency, warmup and so on.
+Currently invested in AI work, mainly do model fine-tuning, Agent construction, basic capacity construction, vertical field AI landing scene exploration, etc. I believe AI will be the future, large models and vertical models will be useful!
 
 --------------------
 
@@ -14,9 +14,9 @@ Recently, I mainly do golang work, the main direction is to solve some of the pa
 
 使用java和golang。
 
-擅长Dubbo/Netty/RocketMQ/Flink/缓存。开发过微服务框架，监控系统，消息队列等。
+擅长Dubbo/Netty/Flink/RocketMQ/缓存。开发过微服务框架、监控系统、消息队列等中间件，做过TB级别的实时计算，做过单元化架构改造。
 
-近期主要做golang方面的工作，主要方向是解决缓存的一些痛点，比如一致性、预热等。
+目前投入AI方面工作，主要做模型精调、Agent搭建、基础能力建设、垂直领域的AI落地场景探索等，我相信AI会是未来，大模型和垂直模型都会有用武之地！
 
 --------------------
 
