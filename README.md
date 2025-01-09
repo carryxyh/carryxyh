@@ -16,7 +16,7 @@ Currently invested in AI work, mainly do model fine-tuning, Agent construction, 
 
 擅长Dubbo/Netty/Flink/RocketMQ/缓存。开发过微服务框架、监控系统、消息队列等中间件，做过TB级别的实时计算，做过单元化架构改造。
 
-目前投入AI方面工作，主要做模型精调、Agent搭建、基础能力建设、垂直领域的AI落地场景探索等，我相信AI会是未来，大模型和垂直模型都会有用武之地！
+目前投入AI方面工作，主要基础能力建设、垂直领域的AI落地场景探索等，我相信AI会是未来，大模型和垂直模型都会有用武之地！
 
 --------------------
 
